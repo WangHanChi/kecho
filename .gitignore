@@ -54,5 +54,11 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
+# picture
+*.png
+
+# IDE setting
+.vscode
+
 # Other
 bench.txt
